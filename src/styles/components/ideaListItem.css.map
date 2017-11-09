@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,SAAS;EACP,KAAK,EAAC,GAAG",
+"sources": ["ideaListItem.scss"],
+"names": [],
+"file": "ideaListItem.css"
+}
